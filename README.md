@@ -7,6 +7,7 @@ These solutions are solely for educational purposes.
 ---
 
 ## 7kyu Katas
+
 <br>
 
 | Katas | Solutions | Subject | CW Link |
@@ -16,7 +17,9 @@ These solutions are solely for educational purposes.
 ---
 
 ## 8kyu Katas
+
 <br>
+
 | Katas | Solutions | Subject | CW Link |
 | -- | -- | -- | -- |
 | [**Reduce but Grow**](8kyuKatas/reduce_but_grow.md) | 1 | `arrays` | [link](https://www.codewars.com/kata/57f780909f7e8e3183000078/) |
