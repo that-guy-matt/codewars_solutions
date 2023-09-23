@@ -13,6 +13,7 @@ These solutions are solely for educational purposes.
 | Katas | Solutions | Subject | CW Link |
 | -- | -- | -- | -- |
 | [**Square Every Digit**](7kyuKatas/square_every_digit.md) | 1 | `math`, `strings` | [link](https://www.codewars.com/kata/546e2562b03326a88e000020) |
+| [**Sum of a Sequence**](7kyuKatas/sum_of_sequence.md) | 1 | `math`, `algorithms` | [link](https://www.codewars.com/kata/586f6741c66d18c22800010a) |
 
 ---
 
