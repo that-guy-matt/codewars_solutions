@@ -23,6 +23,7 @@ These solutions are solely for educational purposes.
 
 | Katas | Solutions | Subject | CW Link |
 | -- | -- | -- | -- |
+| [**Dougle Char**](8kyuKatas/double_char.md) | 1 | `strings` | [link](https://www.codewars.com/kata/56b1f01c247c01db92000076) |
 | [**Powers of 2**](8kyuKatas/powers_of_2.md) | 1 | `math`, `arrays` | [link](https://www.codewars.com/kata/57a083a57cb1f31db7000028) |
 | [**Reduce but Grow**](8kyuKatas/reduce_but_grow.md) | 1 | `arrays` | [link](https://www.codewars.com/kata/57f780909f7e8e3183000078) |
 | [**Reversed Strings**](8kyuKatas/reversed_strings.md) | 1 | `strings` | [link](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) |
