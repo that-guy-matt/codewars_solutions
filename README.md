@@ -26,3 +26,4 @@ These solutions are solely for educational purposes.
 | [**Reduce but Grow**](8kyuKatas/reduce_but_grow.md) | 1 | `arrays` | [link](https://www.codewars.com/kata/57f780909f7e8e3183000078) |
 | [**Reversed Strings**](8kyuKatas/reversed_strings.md) | 1 | `strings` | [link](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) |
 | [**String Repeat**](8kyuKatas/string_repeat.md) | 1 | `strings` | [link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) |
+| [**Sum of Positive**](8kyuKatas/sum_of_positive.md) | 1 | `math`, `arrays` | [link](https://www.codewars.com/kata/5715eaedb436cf5606000381) |
