@@ -26,5 +26,6 @@ These solutions are solely for educational purposes.
 | [**Powers of 2**](8kyuKatas/powers_of_2.md) | 1 | `math`, `arrays` | [link](https://www.codewars.com/kata/57a083a57cb1f31db7000028) |
 | [**Reduce but Grow**](8kyuKatas/reduce_but_grow.md) | 1 | `arrays` | [link](https://www.codewars.com/kata/57f780909f7e8e3183000078) |
 | [**Reversed Strings**](8kyuKatas/reversed_strings.md) | 1 | `strings` | [link](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) |
+| [**Sentence Smash**](8kyuKatas/sentence_smash.md) | 1 | `strings`, `arrays` | [link](https://www.codewars.com/kata/53dc23c68a0c93699800041d) |
 | [**String Repeat**](8kyuKatas/string_repeat.md) | 1 | `strings` | [link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) |
 | [**Sum of Positive**](8kyuKatas/sum_of_positive.md) | 1 | `math`, `arrays` | [link](https://www.codewars.com/kata/5715eaedb436cf5606000381) |
