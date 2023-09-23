@@ -1,4 +1,4 @@
-# Reversed String
+# Reversed Strings
 
 ## Description
 Complete the solution so that it reverses the string passed into it. 
